@@ -10,7 +10,7 @@
 #### Design 1 (Alyssa Ayala)
 [embed]https://github.com/qc-se-fall2022/370Fall22Sec34Team6/blob/caaf08225585c497d52623de4a3738977b72e0d2/GroupProject/Design-Individual/alyssarose05/design.pdf[/embed]
 
-![image-20221025124635134](C:\Users\84377\AppData\Roaming\Typora\typora-user-images\image-20221025124635134.png)
+![image](https://user-images.githubusercontent.com/112430688/198159872-507ac2aa-3b38-4924-8383-4f8b5dbd21fc.png)
 
 **PROS:**
 
